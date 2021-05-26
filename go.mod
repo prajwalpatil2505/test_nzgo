@@ -1,4 +1,4 @@
-module github.com/prajwalpatil2505/test_nzgo/v2
+module github.com/prajwalpatil2505/test_nzgo/v3
 
 go 1.16
 
